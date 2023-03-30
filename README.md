@@ -1,6 +1,6 @@
 
 ### Hi, I'm Matthew Burke
-I'm a machine learning engineer who is interested in a lot of things like generative art (check me out [on instagram](https://instagram.com/yot_club_])) and game development. I have a blog at mwburke.github.io where I write about them sometimes.
+I'm a machine learning engineer who is interested in a lot of things like generative art (check me out [on instagram](https://instagram.com/yot_club_)) and game development. I have a blog at mwburke.github.io where I write about them sometimes.
 
 #### A few things I have made
 
